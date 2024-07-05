@@ -1,0 +1,19 @@
+# /dist/*
+.local
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
+
+*.md
+*.markdown
+
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+dist
+build
